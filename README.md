@@ -1,6 +1,6 @@
 # Small Bites - Restaurant Website
 
-Welcome to **Small Bites**, a fictional restaurant website project built as part of [The Odin Project](https://www.theodinproject.com/). This project showcases my HTML, CSS, and JavaScript skills while creating an engaging and functional online presence for a restaurant.
+Welcome to **Small Bites**, a fictional restaurant website project. This project showcases my HTML, CSS, and JavaScript skills while creating an engaging and functional online presence for a restaurant.
 
 ## Project Overview
 
